@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: BSc Student in Computer Engineering
+role: B.Sc. Student in Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,14 @@ organizations:
   url: ""
 
 interests:
-- Theoritical Computer Science
-- Verification
 - Algorithmic game theory
+- Computational Social Choice
+- Combinatorial Optimization
+- Complexity Theory
 
 education:
   courses:
-  - course: BSc in Computer Engineering
+  - course: B.Sc. in Computer Engineering
     institution: Sharif University of Technology
     year: 2021
 
@@ -42,11 +43,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/asadial
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "asadia1376@gmail.com"
@@ -60,4 +61,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My name is Ali Asadi and I am a BSc student at Sharif University of Technology. My interest is theoretical computer science. More specifically, I am interested in algorithmic game theory and verification. You can find my resume [here]()
+My name is Ali Asadi and I am a B.Sc. student at Sharif University of Technology. My interest is theoretical computer science. You can find my resume [here](/files/cv.pdf).
